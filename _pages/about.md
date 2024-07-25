@@ -9,10 +9,9 @@ profile:
   image: dongkyu-leemodified.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>R206, B35</p>
-    <p>1 Gwanak-ro</p>
-    <p>Gwanak-gu, Seoul</p>
-    <p>Republic of Korea</p>
+    <p> R206, B35 </p>
+    <p> 1 Gwanak-ro, Gwanak-gu </p>
+    <p> Seoul, Republic of Korea</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
